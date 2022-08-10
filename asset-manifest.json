@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/character-maker/static/css/main.9ff23e91.css",
+    "main.js": "/character-maker/static/js/main.e5c60428.js",
+    "index.html": "/character-maker/index.html",
+    "main.9ff23e91.css.map": "/character-maker/static/css/main.9ff23e91.css.map",
+    "main.e5c60428.js.map": "/character-maker/static/js/main.e5c60428.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ff23e91.css",
+    "static/js/main.e5c60428.js"
+  ]
+}
